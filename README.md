@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**JorgeAcostaMota/JorgeAcostaMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I’m Jorge Acosta
+## About Me
+ High school student at Colegio Cultural
+ Learning pentesting, Python, and cybersecurity
+ Dreaming of becoming a Red Teamer.
+---
+## Currently learning:
+Python
+Ethical hacking fundamentals
+Networking and Linux (Kali)
+---
+## Goal:
+Master the skills needed to work as a junior pentester or red teamer by the time I finish high school.
+---
+## Contact:
+acostamotajorge@gmail.com
+---
+Thanks for visiting my profile. I’m building my path step by step! 🚀
+---
