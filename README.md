@@ -5,8 +5,8 @@
  Dreaming of becoming a Red Teamer.
 ---
 ## Currently learning:
-Python
-Ethical hacking fundamentals
+Python, 
+Ethical hacking fundamentals, 
 Networking and Linux (Kali)
 ---
 ## Goal:
