@@ -1,4 +1,4 @@
-# Hi, I’m Jorge Acosta
+# Hi, My name is Jorge Acosta
 ## About Me
  High school student at Colegio Cultural
  Learning pentesting, Python, and cybersecurity
